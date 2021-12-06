@@ -13,5 +13,3 @@ function composedValue(value) {
 var myValue = window.prompt("Enter value : ");
 console.log(composedValue(myValue));
 
-// var f1 = composedValue(square, double);
-// console.log(f1(5));
