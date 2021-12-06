@@ -1,7 +1,6 @@
 
 // 2nd basic
 const square = x => x*x;
-"square is " + square;
 const double = x => x*2;
 const compose = (f, fs) => x => f(fs(x));
 
